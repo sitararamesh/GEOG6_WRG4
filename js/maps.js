@@ -11,5 +11,6 @@ function initMap() {
 
         north_america.addListener('click', function() {
           window.open('./northamerica.html');
+          console.log("JUNK");
         });
       }
