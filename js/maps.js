@@ -25,7 +25,7 @@ function initMap() {
         });
 
         // South America
-        var LatLng3= {lat:22.761708, lng:88.914138};
+        var LatLng3= {lat:-28.782291, lng:-69.725905};
         var south_america = new google.maps.Marker({
           position: LatLng3,
           map: map
