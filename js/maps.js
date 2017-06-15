@@ -84,8 +84,8 @@ function initMap() {
           window.open('./southasia.html');
         });
 
-        // East Asia - Taipei
-        var LatLng9= {lat:24.994560, lng:121.551646};
+        // East Asia 
+        var LatLng9= {lat:38.291088, lng:127.097825};
         var east_asia = new google.maps.Marker({
           position: LatLng9,
           map: map
@@ -94,8 +94,8 @@ function initMap() {
           window.open('./eastasia.html');
         });
 
-        //SouthEast Asia - Brunei
-        var LatLng10= {lat:4.853054, lng:115.018474};
+        //SouthEast Asia 
+        var LatLng10= {lat:8.633259, lng:111.916677};
         var southeast_asia = new google.maps.Marker({
           position: LatLng10,
           map: map
