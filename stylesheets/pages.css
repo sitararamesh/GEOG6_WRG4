@@ -87,6 +87,11 @@ h3 {
 	padding-top:0;
 	padding-bottom: 4%;
 }
+#sources {
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 10%;
+}
 #ref {
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
