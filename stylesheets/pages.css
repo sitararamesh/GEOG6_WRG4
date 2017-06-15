@@ -87,7 +87,17 @@ h3 {
 	padding-top:0;
 	padding-bottom: 4%;
 }
-
+#ref {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 80%;
+	color: #9EA8A6;
+	opacity: 0.8;
+	padding-top:0;
+	padding-bottom: 4%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
 #end {
 	text-align: center;
 	font-family: 'Cardo', serif;
